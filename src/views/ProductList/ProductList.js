@@ -5,7 +5,7 @@ import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 
 import { ProductsToolbar, ProductCard } from './components';
-import mockData from './data';
+import mockData from 'https://4f17d161-7691-4c9b-8236-cfcddd77a92b.app.jexia.com/ds/users';
 
 const useStyles = makeStyles(theme => ({
   root: {
